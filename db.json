@@ -1,19 +1,23 @@
 {
-  "users": [
+  "posts": [
     {
-      "name": "Carlos Ferreira",
-      "email": "carlosferreira@gmail.com",
-      "password": "2232"
+      "titulo": "Recita de bolo de Cenoura",
+      "autor": "Maria Lima",
+      "imagem": "bolo.jpg",
+      "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet volutpat magna at elementum. Cras aliquet erat at libero venenatis varius. Vivamus lectus nulla, faucibus sed elementum vitae, tristique lacinia sapien. Sed in vehicula neque. Ut magna dolor, gravida at lectus ut, pulvinar rhoncus augue. "
+    },
+
+    {
+      "titulo": "Receita de empada",
+      "autor": "João Pedro",
+      "imagem": "empada.jpg",
+      "conteudo": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis aliquam magna ut neque condimentum, feugiat venenatis enim aliquam. Sed quis condimentum nisl."
     },
     {
-      "name": "Marina Ribeiro",
-      "email": "marinaribeiro@gmail.com",
-      "password": "sdasd"
-    },
-    {
-      "name": "José Fonseca",
-      "email": "josefonseca@gmail.com",
-      "password": "fasfas"
+      "titulo": "Receita de cappuccino",
+      "autor": "Lívia Fereira",
+      "imagem": "capuccino.jpg",
+      "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet volutpat magna at elementum. Cras aliquet erat at libero venenatis varius. Vivamus lectus nulla, faucibus sed elementum vitae, tristique lacinia sapien. Sed in vehicula neque. Ut magna dolor, gravida at lectus ut, pulvinar rhoncus augue. "
     }
   ]
 }

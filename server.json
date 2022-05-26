@@ -10,18 +10,22 @@
   },
   "entities": [
     {
-      "name": "user",
-      "alias": "User",
+      "name": "post",
+      "alias": "Post",
       "fields": {
-        "name": {
+        "titulo": {
           "type": "string",
           "required": true
         },
-        "email": {
+        "autor": {
           "type": "string",
           "required": true
         },
-        "password": {
+        "imagem": {
+          "type": "image",
+          "required": true
+        },
+        "conteudo": {
           "type": "string",
           "required": true
         },
