@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Carlos Ferreira",
+      "email": "carlosferreira@gmail.com",
+      "password": "2232"
+    },
+    {
+      "name": "Marina Ribeiro",
+      "email": "marinaribeiro@gmail.com",
+      "password": "sdasd"
+    },
+    {
+      "name": "José Fonseca",
+      "email": "josefonseca@gmail.com",
+      "password": "fasfas"
+    }
+  ]
+}
